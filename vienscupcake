@@ -20535,6 +20535,7 @@ local a=loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-U
         return loadstring(game:HttpGetAsync(("https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/MinionMeme.plugin.luau"), true))()
     end,
  })
+
  local Toggle = XtrasTab:CreateToggle({
     Name = "MoreSEX",
     CurrentValue = false,
@@ -20543,6 +20544,7 @@ local a=loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-U
         return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Infinite-Store/Infinite-Store/main/plugins/moresex.iy"), true))()
     end,
  })
+
  local Toggle = XtrasTab:CreateToggle({
     Name = "nsfwr6",
     CurrentValue = false,
@@ -20551,6 +20553,7 @@ local a=loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-U
         return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/Infinite-Store/Infinite-Store/main/plugins/NsfwR6.iy"), true))()
     end,
  })
+ 
  local Toggle = XtrasTab:CreateToggle({
     Name = "yomomma",
     CurrentValue = false,
@@ -20947,3 +20950,12 @@ local a=loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-U
         return loadstring(game:HttpGetAsync(("https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/addallplugins.plugin.luau"), true))()
     end,
  })
+
+
+
+
+
+
+
+
+
